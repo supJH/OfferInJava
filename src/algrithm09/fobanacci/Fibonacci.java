@@ -1,4 +1,4 @@
-package algrithm9.fobanacci;
+package algrithm09.fobanacci;
 
 /**
  * Created by Administrator on 2016/4/28.
