@@ -1,6 +1,8 @@
 package algrithm13.delete_list_node;
 
 
+import data.ListNode;
+
 /**
  * Created by Administrator on 2016/4/29.
  */
