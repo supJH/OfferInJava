@@ -1,4 +1,4 @@
-package algrithm8.min_in_roasted_array;
+package algrithm08.min_in_roasted_array;
 
 /**
  * Created by Administrator on 2016/4/28.

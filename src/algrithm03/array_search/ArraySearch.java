@@ -1,4 +1,4 @@
-package algrithm3.array_search;
+package algrithm03.array_search;
 
 /**
  * Created by Administrator on 2016/4/25.

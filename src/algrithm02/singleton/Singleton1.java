@@ -1,4 +1,4 @@
-package algrithm2.singleton;
+package algrithm02.singleton;
 
 /**
  * Created by Administrator on 2016/4/25.

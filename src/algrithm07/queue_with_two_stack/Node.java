@@ -1,4 +1,4 @@
-package algrithm7.queue_with_two_stack;
+package algrithm07.queue_with_two_stack;
 
 /**
  * Created by Administrator on 2016/4/26.

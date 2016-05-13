@@ -1,4 +1,4 @@
-package algrithm5.print_list_reverse;
+package algrithm05.print_list_reverse;
 
 import data.ListNode;
 

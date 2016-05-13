@@ -1,4 +1,4 @@
-package algrithm4.replace_blank;
+package algrithm04.replace_blank;
 
 /**
  * Created by Administrator on 2016/4/25.

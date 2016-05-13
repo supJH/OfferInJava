@@ -1,4 +1,4 @@
-package algrithm7.queue_with_two_stack;
+package algrithm07.queue_with_two_stack;
 
 import java.util.LinkedList;
 import java.util.Queue;
