@@ -8,7 +8,7 @@ public class Singleton2 {
     private Singleton2(){}
 
     /**
-     * ʹ�þ�̬�ڲ��࣬ʹ�õ�ʱ��ż��ؾ�̬�ڲ���
+     * 使用静态内部类，使用的时候才加载静态内部类
      */
     private static class SingletonHolder{
         private static final Singleton2 instance = new Singleton2();

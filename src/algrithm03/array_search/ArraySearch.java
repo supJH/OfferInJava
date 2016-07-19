@@ -5,9 +5,9 @@ package algrithm03.array_search;
  */
 
 /**
- * 二维有序数组查找
- * 每行从左到右递增
- * 每列从上到下递增
+ * 浜岀淮鏈夊簭鏁扮粍鏌ユ壘
+ * 姣忚浠庡乏鍒板彸閫掑
+ * 姣忓垪浠庝笂鍒颁笅閫掑
  */
 public class ArraySearch {
 

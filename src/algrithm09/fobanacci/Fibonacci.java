@@ -5,7 +5,7 @@ package algrithm09.fobanacci;
  */
 
 /**
- * Çóì³²¨ÄÇÆõÊıÁĞµÄµÚnÏî
+ * æ±‚æ–æ³¢é‚£å¥‘æ•°åˆ—çš„ç¬¬né¡¹
  */
 public class Fibonacci {
 

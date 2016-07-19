@@ -5,8 +5,8 @@ package algrithm09.fobanacci;
  */
 
 /**
- * ÇàÍÜÃ¿¼¶ÌøÒ»²½»òÁ½²½
- * <p>Èç¹ûÃ¿´ÎÌøµÄ¼¶ÊýÎª1,2,...,n£¬ÄÇÃ´ÓÐ2µÄ£¨n-1£©´ÎÃÝÖÖÌø·¨</p>
+ * é’è›™æ¯çº§è·³ä¸€æ­¥æˆ–ä¸¤æ­¥
+ * <p>å¦‚æžœæ¯æ¬¡è·³çš„çº§æ•°ä¸º1,2,...,nï¼Œé‚£ä¹ˆæœ‰2çš„ï¼ˆn-1ï¼‰æ¬¡å¹‚ç§è·³æ³•</p>
  */
 
 public class FrogJump {

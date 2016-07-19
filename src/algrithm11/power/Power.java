@@ -5,7 +5,7 @@ package algrithm11.power;
  */
 
 /**
- * ²»¿¼ÂÇ´óÊıÎÊÌâ£»
+ * ä¸è€ƒè™‘å¤§æ•°é—®é¢˜ï¼›
  */
 
 public class Power {

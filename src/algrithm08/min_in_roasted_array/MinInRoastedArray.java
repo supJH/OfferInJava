@@ -29,7 +29,7 @@ public class MinInRoastedArray {
             } else if (nums[mid] < nums[end]) {
                 end = mid;
             }
-            //  {1,0,1,1,1}这种情形只能用顺序查询了
+            //  {1,0,1,1,1}杩欑鎯呭舰鍙兘鐢ㄩ『搴忔煡璇簡
             if (nums[start] == nums[mid] && nums[mid] == nums[end])
                 return minInOrder(nums);
         }
