@@ -5,6 +5,7 @@ import data.ListNode;
 
 /**
  * Created by Administrator on 2016/4/29.
+ * 给定单向链表的头指针和一个节点指针，定义一个函数O（1）删除该节点
  */
 public class DeleteListNode {
 
@@ -68,6 +69,7 @@ public class DeleteListNode {
         } else if (head == delNode) {
             return null;
         } else {
+//            删除的节点的next为null，则必须遍历整个链表
             while (node != null) {
 
                 if (node == delNode) {

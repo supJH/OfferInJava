@@ -2,6 +2,7 @@ package algrithm12.printMaxNLength;
 
 /**
  * Created by Administrator on 2016/4/28.
+ * 打印1到最大的N位数
  */
 public class PrintMaxNLength {
 

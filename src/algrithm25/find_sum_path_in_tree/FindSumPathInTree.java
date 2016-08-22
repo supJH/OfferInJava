@@ -6,6 +6,7 @@ import java.util.LinkedList;
 
 /**
  * Created by Administrator on 2016/5/14.
+ * 二叉树节点值和为输入整数的所有路径
  */
 public class FindSumPathInTree {
 

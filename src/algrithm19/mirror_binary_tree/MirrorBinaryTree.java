@@ -4,6 +4,7 @@ import data.BinaryNode;
 
 /**
  * Created by Administrator on 2016/5/13.
+ * 二叉树的镜像
  */
 public class MirrorBinaryTree {
 
@@ -31,7 +32,7 @@ public class MirrorBinaryTree {
 
     }
 
-
+    //递归交换左右子树
     public void mirrorBinaryTree(BinaryNode root) {
         if (root == null) return;
         BinaryNode tempNode = root.left;
@@ -41,8 +42,5 @@ public class MirrorBinaryTree {
         mirrorBinaryTree(root.left);
         mirrorBinaryTree(root.right);
 
-
     }
-
-
 }

@@ -6,6 +6,7 @@ import java.util.LinkedList;
 
 /**
  * Created by Administrator on 2016/5/14.
+ * 层序遍历二叉树
  */
 public class PrintTreeFromTopToBottom {
 
@@ -33,7 +34,7 @@ public class PrintTreeFromTopToBottom {
 
     }
 
-
+    //使用队列
     public void printTreeFromTopToButtom(BinaryNode root) {
         LinkedList<BinaryNode> queue = new LinkedList<>();
 

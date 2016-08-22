@@ -4,6 +4,7 @@ import java.util.Arrays;
 
 /**
  * Created by Administrator on 2016/5/9.
+ * 调整数组的顺序，奇数位于数组的前半部分，偶数位于数组后半部分
  */
 public class ReverseOddEven {
 
@@ -19,7 +20,7 @@ public class ReverseOddEven {
     public int[] reverseOddEven(int[] nums) {
         int p1 = 0;
         int p2 = nums.length - 1;
-
+//        思想就是交换数组中前半部分中的偶数和前后部分中的奇数
         while (p1 < p2) {
             while ((nums[p1] & 1) == 1 && p1 < nums.length - 1) {
                 p1++;

@@ -2,12 +2,14 @@ package algrithm08.min_in_roasted_array;
 
 /**
  * Created by Administrator on 2016/4/28.
+ * 输入一个递增排序的数组的一个旋转（将数组中最开始的若干个元素搬到数组的末尾），
+ * {3,4,5,1,2}是{1,2,3,4,5}的一个旋转，求该数组的最小值
  */
 public class MinInRoastedArray {
 
     public static void main(String[] args) {
         MinInRoastedArray m = new MinInRoastedArray();
-        int result = m.min(new int[]{1,2,3,4,5});
+        int result = m.min(new int[]{1, 2, 3, 4, 5});
         System.out.println(result);
     }
 

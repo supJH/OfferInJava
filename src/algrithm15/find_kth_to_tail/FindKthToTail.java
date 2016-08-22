@@ -4,6 +4,7 @@ import data.ListNode;
 
 /**
  * Created by Administrator on 2016/5/13.
+ * 输出链表的倒数第k个节点
  */
 public class FindKthToTail {
 

@@ -4,6 +4,7 @@ import data.ListNode;
 
 /**
  * Created by Administrator on 2016/5/13.
+ * 返回链表中的中间节点
  */
 public class FindMiddleNode {
 
@@ -42,7 +43,7 @@ public class FindMiddleNode {
 
 
     }
-
+//    两个指针，一个一次走两步，另一个一次走一步
     public ListNode findTheMiddleNode(ListNode head) {
         ListNode node1 = head;
         ListNode node2 = head;

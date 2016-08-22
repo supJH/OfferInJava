@@ -4,6 +4,7 @@ import data.ListNode;
 
 /**
  * Created by Administrator on 2016/5/13.
+ * 反转链表
  */
 public class ReverseListNode {
 
@@ -40,10 +41,10 @@ public class ReverseListNode {
         }
     }
 
+//    使用一个指针记录前一个node
     public ListNode reverseListNode(ListNode head) {
 
         if (head == null) return null;
-
 
         ListNode node = head;
         ListNode preNode = null;
@@ -56,11 +57,6 @@ public class ReverseListNode {
             node = nextNode;
 
         }
-
         return preNode;
-
-
     }
-
-
 }

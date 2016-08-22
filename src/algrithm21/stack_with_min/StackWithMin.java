@@ -4,6 +4,7 @@ import java.util.Stack;
 
 /**
  * Created by Administrator on 2016/5/14.
+ * 得到栈中最小元素的min函数
  */
 public class StackWithMin<T extends Comparable> {
     private Stack<T> dataStack;
